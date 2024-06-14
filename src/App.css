@@ -1,0 +1,32 @@
+.main-container{
+  border: 1px solid rgba(0, 0, 0, 0.652);
+  width: 200px;
+  border-radius: 5px;
+  margin: auto;
+  background-color: rgb(61, 59, 59);
+  padding: 10px;
+  }
+  .btn-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .btn{
+    width:45px;
+    height: 45px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: rgb(230, 215, 196);
+    border: 2px solid rgb(25, 24, 25);
+    font-size: 24px;
+  }
+  .display{
+    margin: 10px;
+    width:175px;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    box-shadow: inset  7px 4px 4px rgba(2, 2, 2, 0.2);
+    background-color: rgb(46, 57, 30);
+    color: white;
+  }
